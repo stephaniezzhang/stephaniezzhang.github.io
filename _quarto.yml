@@ -7,8 +7,6 @@ website:
   search: true
   navbar:
     left:
-      - file: bio.qmd
-        text: "About Me"
       - file: Zhang_CV.pdf
         text: "CV"
       - file: projects.qmd
