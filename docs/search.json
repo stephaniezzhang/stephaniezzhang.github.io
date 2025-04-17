@@ -7,25 +7,32 @@
     "text": "I am primarily interested using computational (network and/or text analysis) methods to answer questions in Science and Technology Studies. I seek to examine ways of integrating newly digitized and/or previously underutilized sources of data.\nI graduated from the University of Virginia with a B.A in Mathematics (Probability/Statistics) and Sociology. While there, I worked as a research assistant at the Biocomplexity Institute, did a brief stint in data science, and taught debate in my spare time.\nIn my spare time, I enjoy reading, film photography, dancing salsa and exploring Los Angeles through overpriced coffee shops."
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "This project sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out."
+  },
+  {
+    "objectID": "projects.html#trains",
+    "href": "projects.html#trains",
+    "title": "projects",
+    "section": "",
+    "text": "This project sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out."
+  },
+  {
     "objectID": "projects.html#twitter-and-ai",
     "href": "projects.html#twitter-and-ai",
     "title": "projects",
     "section": "Twitter and AI",
-    "text": "Twitter and AI"
+    "text": "Twitter and AI\nI examine Twitter/X content regarding AI from 2021 and use Sentence BERT (SBERT) in a topic model to examine the main themes that emerge. I focus on the disruption of expertise posed by AI and argue that as expertise becomes more unclear, responsibility for the consequences of AI also become more unclear.\nThis paper was written as part of the Distinguished Majors Program at UVA during my fourth year and was advised by Natalie Aviles and Adam Slez."
   },
   {
     "objectID": "projects.html#migrant-mortality",
     "href": "projects.html#migrant-mortality",
     "title": "projects",
     "section": "Migrant Mortality",
-    "text": "Migrant Mortality"
-  },
-  {
-    "objectID": "projects.html#other-pre-grad-school-projects",
-    "href": "projects.html#other-pre-grad-school-projects",
-    "title": "projects",
-    "section": "Other pre-grad school projects",
-    "text": "Other pre-grad school projects"
+    "text": "Migrant Mortality\nWe used Familinx data and examine the migrant mortality advantage in 18th and 19th century migration out of the United Kingdom and Ireland to Canada, the United States, Australia, New Zealand and South Africa.\nThis paper was written at the 2023 Max Planck Institute for Demographic Research Summer Incubator Program with Elena Pojman, Duke Mwedzi and Orlando Olaya Bucaro and advised by Michael Chong, Diego Alburez-Gutierrez and Monica Alexander."
   },
   {
     "objectID": "teaching.html",
@@ -39,6 +46,6 @@
     "href": "index.html",
     "title": "Stephanie Zhang",
     "section": "",
-    "text": "I am a PhD student in Sociology at UCLA.\nI am primarily interested using computational (network and/or text analysis) methods to answer questions in Science and Technology Studies. I seek to examine ways of integrating newly digitized and/or previously underutilized sources of data.\nI graduated from the University of Virginia in 2023 with a B.A in Mathematics (Probability/Statistics) and Sociology. While there, I worked as a research assistant at the Biocomplexity Institute, did a brief stint in data science, and taught debate in my spare time.\nIn my spare time, I enjoy reading, film photography, dancing salsa and exploring Los Angeles through overpriced coffee shops.\nContact: szhang19@g.ucla.edu"
+    "text": "I am a PhD student in Sociology at UCLA.\nI am primarily interested using computational (network and/or text analysis) methods to answer questions in Science and Technology Studies. I seek to examine ways of integrating newly digitized and/or previously underutilized sources of data. I am currently beginning a project that seeks to examine various ways data is obtained, dealt with in missing situations and commodified.\nI graduated from the University of Virginia in 2023 with a B.A in Mathematics (Probability/Statistics) and Sociology. While there, I worked as a research assistant at the Biocomplexity Institute, did a brief stint in data science, and taught debate in my spare time.\nIn my spare time, I enjoy reading, film photography, dancing salsa and exploring Los Angeles through overpriced coffee shops.\nContact: szhang19@g.ucla.edu"
   }
 ]
