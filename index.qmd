@@ -1,0 +1,18 @@
+---
+title: "Stephanie Zhang"
+about:
+  template: broadside
+  image: headshot.JPG
+  links:
+     - icon: twitter
+       text: twitter/x
+       href: https://x.com/stephzzhang
+     - icon: cloud
+       text: bsky
+       href: https://bsky.app/profile/stephzzhang.bsky.social
+     - icon: envelope
+       text: email
+       href: szhang19@g.ucla.edu
+---
+
+I am a PhD student in Sociology at UCLA.  

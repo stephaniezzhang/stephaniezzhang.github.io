@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stephanie Zhang"
+  search: true
+  navbar:
+    left:
+      - file: bio.qmd
+        text: "About Me"
+      - file: Zhang_CV.pdf
+        text: "CV"
+      - file: projects.qmd
+        text: "Research"
+      - file: teaching.qmd
+        text: "Teaching"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
