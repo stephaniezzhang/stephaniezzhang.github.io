@@ -1,8 +1,8 @@
 ---
-title: "projects"
+title: "Projects"
 ---
 
-## Trains
+## Historic Rail Transit in Los Angeles
 
 This project sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out.
 
@@ -10,10 +10,10 @@ This project sought to examine the disappearance of the Pacific Electric rail ne
 
 I examine Twitter/X content regarding AI from 2021 and use Sentence BERT (SBERT) in a topic model to examine the main themes that emerge. I focus on the disruption of expertise posed by AI and argue that as expertise becomes more unclear, responsibility for the consequences of AI also become more unclear.
 
-This paper was written as part of the Distinguished Majors Program at UVA during my fourth year and was advised by Natalie Aviles and Adam Slez.
+This paper was written as part of the Distinguished Majors Program at UVA during my fourth year and was advised by Natalie Aviles and Adam Slez. A preprint can be found [here](https://osf.io/preprints/socarxiv/n3g5m_v1). 
 
 ## Migrant Mortality
 
 We used Familinx data and examine the migrant mortality advantage in 18th and 19th century migration out of the United Kingdom and Ireland to Canada, the United States, Australia, New Zealand and South Africa. 
 
-This paper was written at the 2023 Max Planck Institute for Demographic Research Summer Incubator Program with Elena Pojman, Duke Mwedzi and Orlando Olaya Bucaro and advised by Michael Chong, Diego Alburez-Gutierrez and Monica Alexander.
+This paper was written at the 2023 Max Planck Institute for Demographic Research Summer Incubator Program with Elena Pojman, Duke Mwedzi and Orlando Olaya Bucaro and advised by Michael Chong, Diego Alburez-Gutierrez and Monica Alexander. A preprint can be found [here](https://doi.org/10.4054/MPIDR-WP-2023-050). 

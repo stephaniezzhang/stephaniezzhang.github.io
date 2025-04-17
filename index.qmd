@@ -13,6 +13,9 @@ about:
      - icon: linkedin
        text: linkedin
        href: https://www.linkedin.com/in/stephanie-zhang-/
+     - icon: building
+       text: ucla site
+       href: https://soc.ucla.edu/person/stephanie-zhang/
 ---
 
 I am a PhD student in Sociology at UCLA.  
