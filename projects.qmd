@@ -4,13 +4,13 @@ title: "Projects"
 
 ## Historic Rail Transit in Los Angeles
 
-This project sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out.
+This project (also my Masters Thesis) sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out.
 
 ## Twitter and AI
 
 I examine Twitter/X content regarding AI from 2021 and use Sentence BERT (SBERT) in a topic model to examine the main themes that emerge. I focus on the disruption of expertise posed by AI and argue that as expertise becomes more unclear, responsibility for the consequences of AI also become more unclear.
 
-This paper was written as part of the Distinguished Majors Program at UVA during my fourth year and was advised by Natalie Aviles and Adam Slez. A preprint can be found [here](https://osf.io/preprints/socarxiv/n3g5m_v1). 
+This paper was written as part of the Distinguished Majors Program at UVA during my fourth year and was advised by Natalie Aviles and Adam Slez. The ensuing publication can be found [here](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2525490?scroll=top&needAccess=true). 
 
 ## Migrant Mortality
 

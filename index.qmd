@@ -20,7 +20,7 @@ about:
 
 I am a PhD student in Sociology at UCLA.  
 
-I am primarily interested using computational (network and/or text analysis) methods to answer questions in Science and Technology Studies. I seek to examine ways of integrating newly digitized and/or previously underutilized sources of data. I am currently beginning a project that seeks to examine various ways data is obtained, dealt with in missing situations and commodified.  
+I am primarily interested using computational (network and/or text analysis) methods to answer questions in Science and Technology Studies. I seek to examine ways of integrating newly digitized and/or previously underutilized sources of data. I am currently beginning a project around data acquisition, commodification and management of missingness/completeness and the implications of these aspects of data on culture and knowledge production.
 
 I graduated from the University of Virginia in 2023 with a B.A in Mathematics (Probability/Statistics) and Sociology. While there, I worked as a research assistant at the Biocomplexity Institute, did a brief stint in data science, and taught [debate](https://www.cvilledebate.com/) in my spare time. 
 
