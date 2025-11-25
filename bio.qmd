@@ -2,8 +2,8 @@
 title: "bio"
 ---
 I'm interested in answering questions around information, quantification and technology through computational and network approaches. I seek to integrate newly digitized and/or previously underutilized sources of data, especially administrative data. My current projects include:
- * Estimating mortality in jails and prisons in California and Arizona as a function of population change
- * Utilizing a network approach to FOIA requests made to the FBI to examine request(er) structure
+ * Estimating mortality and the undercount of mortality in jails and prisons in California and Arizona as a function of population change. 
+ * Utilizing a network approach to FOIA requests made to the FBI to examine request(er) structure, particularly around how groups and movements respond to a knowledge of surveillance.
  
 My previous projects can be found under the projects tab
  

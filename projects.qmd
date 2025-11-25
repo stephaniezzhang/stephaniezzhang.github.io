@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Historic Rail Transit in Los Angeles
 
-This project (also my Masters Thesis) sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out.
+This project (also my Masters Thesis) sought to examine the disappearance of the Pacific Electric rail network in Los Angeles between 1911 and 1961 using community detection methods as a way of measuring fragmentation. I find that although the system became more cohesive, it was also becoming less desirable to use and maintain, particularly as supporting infrastructure failed to be built out. This paper is currently in preparation for the Journal of Historical Network Research.
 
 ## Twitter and AI
 
