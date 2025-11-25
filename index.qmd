@@ -18,12 +18,14 @@ about:
        href: https://soc.ucla.edu/person/stephanie-zhang/
 ---
 
-I am a PhD student in Sociology at UCLA.  
+I'm interested in answering questions around information, quantification and technology through computational and network approaches. I seek to integrate newly digitized and/or previously underutilized sources of data, especially administrative data. My current projects include:
+ * Estimating mortality and the undercount of mortality in jails and prisons in California and Arizona as a function of population change. 
+ * Utilizing a network approach to FOIA requests made to the FBI to examine request(er) structure, particularly around how groups and movements respond to a knowledge of surveillance.
+ 
+My previous projects can be found under the projects tab
+ 
+I graduated from the University of Virginia with a B.A in Mathematics (Probability/Statistics) and Sociology. While there, I worked as a research assistant at the Biocomplexity Institute, did a brief stint in data science, and taught [debate](https://www.cvilledebate.com/) in my spare time. 
 
-I am primarily interested using computational (network and/or text analysis) methods to answer questions in Science and Technology Studies. I seek to examine ways of integrating newly digitized and/or previously underutilized sources of data. I am currently beginning a project around data acquisition, commodification and management of missingness/completeness and the implications of these aspects of data on culture and knowledge production.
-
-I graduated from the University of Virginia in 2023 with a B.A in Mathematics (Probability/Statistics) and Sociology. While there, I worked as a research assistant at the Biocomplexity Institute, did a brief stint in data science, and taught [debate](https://www.cvilledebate.com/) in my spare time. 
-
-In my spare time, I enjoy [reading](https://www.goodreads.com/stephzhang_), film photography, dancing salsa and exploring Los Angeles through overpriced [coffee shops](https://docs.google.com/spreadsheets/d/10VzBbPszqHJtMyeP22rpyxgN4PP92SM12oj3Dom1DmQ/edit?gid=0#gid=0).
+In my spare time, I enjoy [reading](https://www.goodreads.com/stephzhang_), film photography, dancing salsa/bachata and exploring Los Angeles through overpriced [coffee shops](https://docs.google.com/spreadsheets/d/10VzBbPszqHJtMyeP22rpyxgN4PP92SM12oj3Dom1DmQ/edit?gid=0#gid=0).
 
 Contact: szhang19@g.ucla.edu
